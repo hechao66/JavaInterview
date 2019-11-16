@@ -8,7 +8,7 @@ Java研发工程师
 
 （1）三种比较？
 
-
+![](./images/network/compare.png)
 
 （2）七层结构细节？
 
